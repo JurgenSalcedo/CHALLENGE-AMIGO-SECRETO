@@ -5,6 +5,7 @@
 - [Descripción](#descripción-)
 - [Funcionalidad](#funcionalidad-)
 - [Uso](#uso)
+- [Ejemplo Visual](#ejemplo_Visual-)
 
 
 
@@ -26,3 +27,7 @@ Cuando el usuario crea conveniente, dejará de ingresar nombres y ejecutará el 
 ## USO
 
 📌 Esta aplicación puede ser utilizada como generador random de amigos de una oficina, para el famoso juego "EL AMIGO SECRETO", ya que determinará qué amigo le corresponde a cada compañero en [...]
+
+## EJEMPLO VISUAL
+
+📌 [VISTA PREVIA DE APLICACION](https://jurgensalcedo.github.io/CHALLENGE-AMIGO-SECRETO/)
